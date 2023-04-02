@@ -3,3 +3,4 @@ Apple
 Pears
 Coconut
 Papaya
+pineapple
